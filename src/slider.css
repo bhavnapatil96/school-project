@@ -1,0 +1,12 @@
+.content {
+    background-color: #F9F6F6;
+}
+.slider{
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    width:1580px;
+
+}
